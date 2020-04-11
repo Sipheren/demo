@@ -4,15 +4,13 @@
     <!-- (Optional) The Header -->
     <q-header elevated class="row justify-center">
       <q-toolbar class="col">
-        <q-toolbar-title>
-          Demo Site
-        </q-toolbar-title>
+      <img src="http://sipheren.com/logo.png" style="max-width: 20%">
       </q-toolbar>
 
       <q-tabs>
-        <q-route-tab :to="{ name: 'profile', params: {id: 1 }}" replace label="Walter White"/>
-        <q-route-tab :to="{ name: 'profile', params: {id: 2 }}" replace label="Jesse Pinkman"/>
-        <q-route-tab :to="{ name: 'profile', params: {id: 'random' }}" replace label="Random"/>
+        <q-route-tab to="/" label="Home"/>
+        <q-route-tab to="Calendar" label="Calendar"/>
+        <q-route-tab to="Rules" label="Rules"/>
       </q-tabs>
       
     </q-header>
