@@ -4,12 +4,12 @@
       <h3>Events</h3>
     </div>
     <div class="full-width row  justify-center items-start content-center">
-      <q-img src="https://cdn.quasar.dev/img/parallax2.jpg" style="max-width: 300px">
+      <q-img class="shadow-1 q-gutter-sm" src="https://cdn.quasar.dev/img/parallax2.jpg" style="max-width: 300px">
         <div class="absolute-bottom text-subtitle1 text-center">
           Caption
         </div>
       </q-img>
-      <q-img src="https://cdn.quasar.dev/img/parallax2.jpg" style="max-width: 300px">
+      <q-img class="shadow-1 q-gutter-sm" src="https://cdn.quasar.dev/img/parallax2.jpg" style="max-width: 300px">
         <div class="absolute-bottom text-subtitle1 text-center">
           Caption2
         </div>
