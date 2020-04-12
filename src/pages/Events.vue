@@ -4,6 +4,14 @@
       <h3>Events</h3>
     </div>
     <div class="full-width row  justify-center items-start content-center">
+      <q-img
+          src="https://cdn.quasar.dev/img/parallax2.jpg"
+          style="width: 100%"
+        >
+          <div class="absolute-bottom text-subtitle1 text-center">
+            Caption
+          </div>
+        </q-img>
     </div>
   </q-page>
 </template>
