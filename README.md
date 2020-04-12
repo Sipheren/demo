@@ -20,6 +20,9 @@ npm run lint
 ### Build the app for production
 ```bash
 quasar build
+
+git fetch origin master
+git reset --hard FETCH_HEAD
 ```
 
 ### Customize the configuration
