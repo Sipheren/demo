@@ -9,7 +9,7 @@
 
       <q-tabs>
         <q-route-tab to="/" label="Home"/>
-        <q-route-tab to="Calendar" label="Calendar"/>
+        <q-route-tab to="Events" label="Events"/>
         <q-route-tab to="Rules" label="Rules"/>
       </q-tabs>
       
