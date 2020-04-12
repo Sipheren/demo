@@ -4,7 +4,7 @@
     <!-- (Optional) The Header -->
     <q-header elevated class="row justify-center">
       <q-toolbar class="col">
-      <img src="http://sipheren.com/logo.png" style="max-width: 20%">
+      <img src="../assets/logo.png" style="max-width: 20%">
       </q-toolbar>
 
       <q-tabs>
