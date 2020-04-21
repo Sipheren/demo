@@ -3,8 +3,47 @@
     <div class="fit row  justify-center items-center content-center">
       <h3>Events</h3>
     </div>
-    <div class="full-width row  justify-center items-start content-center">
-
+    <div class="row justify-center items-center">
+      <div class="col-5 q-ma-sm" style="text-align:center;">
+        <q-img src="https://cdn.quasar.dev/img/parallax2.jpg" style="max-width: 300px; height:400px;">
+        <div class="absolute-bottom text-left">
+          <p>Game:</p>
+          <p>Platform:</p>
+          <p>Series:</p>
+          <p>Start Date:</p>
+        </div>
+        </q-img>
+      </div>
+      <div class="col-5 q-ma-sm" style="text-align:center;">
+        <q-img src="https://cdn.quasar.dev/img/parallax2.jpg" style="max-width: 300px; height:400px;">
+        <div class="absolute-bottom text-left">
+          <p>Game:</p>
+          <p>Platform:</p>
+          <p>Series:</p>
+          <p>Start Date:</p>
+        </div>
+        </q-img>
+      </div>
+      <div class="col-5 q-ma-sm" style="text-align:center;">
+        <q-img src="https://cdn.quasar.dev/img/parallax2.jpg" style="max-width: 300px; height:400px;">
+        <div class="absolute-bottom text-left">
+          <p>Game:</p>
+          <p>Platform:</p>
+          <p>Series:</p>
+          <p>Start Date:</p>
+        </div>
+        </q-img>
+      </div>
+      <div class="col-5 q-ma-sm" style="text-align:center;">
+        <q-img src="https://cdn.quasar.dev/img/parallax2.jpg" style="max-width: 300px; height:400px;">
+        <div class="absolute-bottom text-left">
+          <p>Game:</p>
+          <p>Platform:</p>
+          <p>Series:</p>
+          <p>Start Date:</p>
+        </div>
+        </q-img>
+      </div>
     </div>
   </q-page>
 </template>
